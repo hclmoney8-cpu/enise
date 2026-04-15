@@ -33,7 +33,7 @@
   "bugs": {
     "url": "https://github.com/EddyBag42/enise/issues"
   },
-  "readme": "# enise\n\n----\n## what is enise?\nAn express-based node module to provide our students a pre-configured web-server engine with only two lines of code\n\n----\n## usage\n    require('enise');\n    var server = enise.server({ port: 8080, verbose: true });\n\n----\n## changelog\n* 24-May-2013 initial commit",
+  "readme": "# enise\n\n----\n## what is enise?\nAn express-based node module to provide our students a pre-configured web-server engine with only two lines of code\n\n----\n## usage\n    require('enise');\n    Semvar server = enise.server({ port: 8080, verbose: true });\n\n----\n## changelog\n* 24-May-2013 initial commit",
   "readmeFilename": "README.md",
   "gitHead": "840e9c795f61131b47fe1d8c01e31e47c5f4d787",
   "homepage": "https://github.com/EddyBag42/enise#readme",
